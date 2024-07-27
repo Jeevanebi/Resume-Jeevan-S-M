@@ -35,7 +35,17 @@ Hindusthan Institute of Technology, Anna University
 
 **Tools & Design Patterns:**
 
-- SOLID Design Principles, ELK Stack, Docker, Firebase, WebAPI, MVC, Kafka, Stored Procedure, DB Script, Git, SVN, Linux, Visual Studio, PyCharm, SSMS, Figma, Photoshop, Premiere Pro, Illustrator, Canva
+- SOLID Design Principles,
+- ELK Stack, Kafka,
+- Docker,
+- Firebase,
+- WebAPI, MVC,
+- Stored Procedure, DB Script,
+- Git, SVN,
+- Linux,
+- Visual Studio, PyCharm, SSMS,
+- Figma,
+- Photoshop, Premiere Pro, Illustrator, Canva
 
 **Soft Skills:**
 
@@ -76,6 +86,7 @@ Revolutionizing Agricultural Management with E-Trading, Land Records, Beneficiar
 ## 🏆 Achievements & Extra-Curricular Activities
 
 - **Mentor** - UNESCO India Africa Hackathon, MOE, AICTE, Innovation Cell, India
+- **Winning Team - Winner of Smart India Hackathon 2020 / Software Edition, Innovation Cell, India (Team Lead)
 - **Ranked Top #1 Contributor** on Stack Overflow - June 2024
 - **Founder & President** of Fine Arts Club, Hindusthan Institution (2018 - 2020)
 
@@ -83,10 +94,12 @@ Revolutionizing Agricultural Management with E-Trading, Land Records, Beneficiar
 
 ## 🌐 Links
 
-- [GitHub](https://github.com/Jeevanebi)
 - [LinkedIn](https://www.linkedin.com/in/jeevanebi)
+- [GitHub](https://github.com/Jeevanebi)
+- [Portfolio](https://www.playbook.com/s/jeevanebi/graphic-designing)
 - [Behance](https://www.behance.net/jeevanebi)
 - [Prezi](https://prezi.com/user/3xqxjno91wdx/)
+- [Google](https://tinyurl.com/jeevan-ebi)
 
 ---
 
